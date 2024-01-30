@@ -1,1 +1,1 @@
-# PSCL
+# PSCL - Protein SubCellular Localisation Prediction
